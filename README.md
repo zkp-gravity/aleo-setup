@@ -13,5 +13,6 @@ cd aleo && cargo build
 
 Testing an Aleo file:
 ```
-./aleo/target/debug/aleo run mint aleo1vrxcf2y4hc230wax2urapkcr0ws2zmkz40vpwgd6fstsggk97q9sd6lszx 1u64
+cd aleo/examples/simple_token
+../../target/debug/aleo run mint aleo1vrxcf2y4hc230wax2urapkcr0ws2zmkz40vpwgd6fstsggk97q9sd6lszx 1u64
 ```
