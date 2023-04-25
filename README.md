@@ -1,6 +1,8 @@
 # Aleo setup
 
-In order to get started with lookup tables in Aleo instructions, you can:
+Make sure you use Rust 1.66.
+
+In order to get started with lookup tables in Aleo instructions, you can clone this repo and:
 
 ```
 git submodule update --init --recursive
